@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 ## Technology
 
 HTML, JS, CSS, steam power
+
+## History
+
+Made by some guy called Jason?
+
+## GIT
+
+git
