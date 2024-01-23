@@ -21,3 +21,7 @@ git
 ## COPYRIGHT
 
 me
+
+## How to contribute
+
+Take the bins out
