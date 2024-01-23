@@ -17,3 +17,7 @@ Made by some guy called Jason?
 ## GIT
 
 git
+
+## COPYRIGHT
+
+me
