@@ -25,3 +25,7 @@ me
 ## How to contribute
 
 Take the bins out
+
+## This is a line
+
+added for example rebasing
